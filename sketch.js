@@ -11,7 +11,7 @@ let lasttouch = 0;
 let mix = false;
 let bindex;
 function preload() {
-  img = loadImage("glass3.jpg");
+  img = loadImage("alterWhite.jpg");
 }
 
 function setup() {
