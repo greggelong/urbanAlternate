@@ -26,7 +26,7 @@ function setup() {
   vScale = 40; // height will be 2*vScale
   // only need to make list onece
   makelist();
-  frameRate(10)
+  frameRate(17)
 
   //doit();
   bindex = board.length - 1;
